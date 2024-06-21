@@ -6,6 +6,7 @@ Edit from https://github.com/tyranid/DotNetToJScript
 
 ## Build Docker
 ```
+git clone https://github.com/stevenyu113228/Dot-Net-To-JScript-and-HTA-using-Docker  --recurse-submodules
 sudo docker build -t dotnet2jscript_hta .
 ```
 
